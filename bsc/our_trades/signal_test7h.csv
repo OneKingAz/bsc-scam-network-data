@@ -1,0 +1,3 @@
+﻿time;token;symbol;kind;attempt;source;pay_block;bnb_paid;pool_bnb;share_pct;signal_age_s;send_head;land_block;bot_buy_block;before_bot;sell_block;hold_s;got_bnb;gas_bnb;pnl_bnb;pnl_pct;note
+2026-11-13 20:45:27;0xA99199289f671BB072daD3ceEA7c572BfDB3A976;MP;15;1;удержание;;;15.0;;36.2;;133370054;;;133370325;122.0;0.00015522;0.00027216;-0.00027294;-174.96;тест: 120 с передач
+2026-11-13 21:19:51;0x492eF42b8688F463F9E7F624906AcEa955D6084c;CATLIFE;15;2;удержание;;;15.0;;37.1;;133374649;;;133377318;1202.2;0.00001592;0.00233517;-0.00233525;-14595.28;тест: 1200 с передач

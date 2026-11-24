@@ -1,0 +1,303 @@
+семья 3553 за 10 ч: монет 31; ботов семьи (в 3+ монетах) 30; создателей 31
+сливов сразу после покупки постороннего или нашей: 7
+
+10.11 08:12 0x067483e0 старт 58.0 BNB, пик 64.7, слив на 27.2 мин: removeLiquidityETH от 0xd3d3a299 (создатель)
+     887 с   +5.7507 BNB  пул   63.75  swapExactETHForTokens      0x6d45d791 бот семьи  0.05 gwei
+     909 с   +0.2712 BNB  пул   64.02  swapExactETHForTokens      0x3a62b844 бот семьи  0.05 gwei
+     931 с   +0.2254 BNB  пул   64.25  swapExactETHForTokens      0x2be7077e бот семьи  0.05 gwei
+    1024 с   +0.1288 BNB  пул   64.38  swapExactETHForTokens      0x2be7077e бот семьи  0.05 gwei
+    1084 с   +0.1309 BNB  пул   64.51  swapExactETHForTokens      0x4f7c636d бот семьи  0.05 gwei
+    1245 с   +0.1318 BNB  пул   64.64  swapExactETHForTokens      0xf312fcb0 бот семьи  0.05 gwei
+    1388 с   +0.1078 BNB  пул   64.75  swapExactETHForTokens      0x6d45d791 бот семьи  0.05 gwei
+    1633 с  -64.7438 BNB  пул    0.00  removeLiquidityETH         0xd3d3a299 создатель  0.05 gwei
+
+10.11 08:40 0x6ABFe3BF старт 58.0 BNB, пик 64.9, слив на 26.5 мин: removeLiquidityETH от 0x212a3bdf (создатель)
+     837 с   +6.1908 BNB  пул   64.19  swapExactETHForTokens      0xf312fcb0 бот семьи  0.05 gwei
+     856 с   +0.1173 BNB  пул   64.31  swapExactETHForTokens      0x2be7077e бот семьи  0.05 gwei
+     878 с   +0.1176 BNB  пул   64.43  swapExactETHForTokens      0x4f7c636d бот семьи  0.05 gwei
+     915 с   +0.1623 BNB  пул   64.59  swapExactETHForTokens      0xf312fcb0 бот семьи  0.05 gwei
+     958 с   +0.0978 BNB  пул   64.69  swapExactETHForTokens      0x6d45d791 бот семьи  0.05 gwei
+    1098 с   +0.1355 BNB  пул   64.82  swapExactETHForTokens      0x3a62b844 бот семьи  0.05 gwei
+    1186 с   +0.0920 BNB  пул   64.91  swapExactETHForTokens      0x4f7c636d бот семьи  0.05 gwei
+    1590 с  -64.9104 BNB  пул    0.00  removeLiquidityETH         0x212a3bdf создатель  0.05 gwei
+
+10.11 09:08 0xbb47Bd25 старт 58.0 BNB, пик 64.9, слив на 28.3 мин: removeLiquidityETH от 0x95c00421 (создатель)
+    1068 с   +6.0068 BNB  пул   64.01  swapExactETHForTokens      0x2be7077e бот семьи  0.05 gwei
+    1103 с   +0.1381 BNB  пул   64.14  swapExactETHForTokens      0x4f7c636d бот семьи  0.05 gwei
+    1148 с   +0.2005 BNB  пул   64.35  swapExactETHForTokens      0x6d45d791 бот семьи  0.05 gwei
+    1194 с   +0.1308 BNB  пул   64.48  swapExactETHForTokens      0x3a62b844 бот семьи  0.05 gwei
+    1247 с   +0.1757 BNB  пул   64.65  swapExactETHForTokens      0xf312fcb0 бот семьи  0.05 gwei
+    1288 с   +0.0952 BNB  пул   64.75  swapExactETHForTokens      0x2be7077e бот семьи  0.05 gwei
+    1352 с   +0.1040 BNB  пул   64.85  swapExactETHForTokens      0x2be7077e бот семьи  0.05 gwei
+    1699 с  -64.8482 BNB  пул    0.00  removeLiquidityETH         0x95c00421 создатель  0.05 gwei
+
+10.11 09:38 0x41B2ed4d старт 58.0 BNB, пик 64.8, слив на 27.4 мин: removeLiquidityETH от 0x5b15c843 (создатель)
+     909 с   +5.7569 BNB  пул   63.76  swapExactETHForTokens      0xf312fcb0 бот семьи  0.05 gwei
+     934 с   +0.1858 BNB  пул   63.94  swapExactETHForTokens      0x2be7077e бот семьи  0.05 gwei
+     979 с   +0.2880 BNB  пул   64.23  swapExactETHForTokens      0x6d45d791 бот семьи  0.05 gwei
+    1024 с   +0.2485 BNB  пул   64.48  swapExactETHForTokens      0x3a62b844 бот семьи  0.05 gwei
+    1150 с   +0.1240 BNB  пул   64.60  swapExactETHForTokens      0xf312fcb0 бот семьи  0.05 gwei
+    1260 с   +0.1271 BNB  пул   64.73  swapExactETHForTokens      0x2be7077e бот семьи  0.05 gwei
+    1346 с   +0.1169 BNB  пул   64.85  swapExactETHForTokens      0x4f7c636d бот семьи  0.05 gwei
+    1647 с  -64.8443 BNB  пул    0.00  removeLiquidityETH         0x5b15c843 создатель  0.05 gwei
+
+10.11 10:06 0xE2029318 старт 58.0 BNB, пик 64.7, слив на 28.7 мин: removeLiquidityETH от 0xf6115b1c (создатель)
+    1008 с   +5.6803 BNB  пул   63.68  swapExactETHForTokens      0x4f7c636d бот семьи  0.05 gwei
+    1057 с   +0.2628 BNB  пул   63.94  swapExactETHForTokens      0x3a62b844 бот семьи  0.05 gwei
+    1097 с   +0.2967 BNB  пул   64.24  swapExactETHForTokens      0x2be7077e бот семьи  0.05 gwei
+    1130 с   +0.1857 BNB  пул   64.43  swapExactETHForTokens      0x4f7c636d бот семьи  0.05 gwei
+    1388 с   +0.1111 BNB  пул   64.54  swapExactETHForTokens      0xf312fcb0 бот семьи  0.05 gwei
+    1458 с   +0.1246 BNB  пул   64.66  swapExactETHForTokens      0x2be7077e бот семьи  0.05 gwei
+    1630 с   +0.0879 BNB  пул   64.75  swapExactETHForTokens      0x6d45d791 бот семьи  0.05 gwei
+    1721 с  -64.7463 BNB  пул    0.00  removeLiquidityETH         0xf6115b1c создатель  0.05 gwei
+
+10.11 10:36 0x1A25058d старт 58.0 BNB, пик 64.7, слив на 29.1 мин: removeLiquidityETH от 0x59083e16 (создатель)
+    1002 с   +5.6761 BNB  пул   63.68  swapExactETHForTokens      0xf312fcb0 бот семьи  0.05 gwei
+    1036 с   +0.2874 BNB  пул   63.96  swapExactETHForTokens      0x2be7077e бот семьи  0.05 gwei
+    1076 с   +0.1056 BNB  пул   64.07  swapExactETHForTokens      0x6d45d791 бот семьи  0.05 gwei
+    1108 с   +0.2594 BNB  пул   64.33  swapExactETHForTokens      0x6d45d791 бот семьи  0.05 gwei
+    1152 с   +0.2019 BNB  пул   64.53  swapExactETHForTokens      0xf312fcb0 бот семьи  0.05 gwei
+    1199 с   +0.1095 BNB  пул   64.64  swapExactETHForTokens      0x2be7077e бот семьи  0.05 gwei
+    1281 с   +0.0927 BNB  пул   64.73  swapExactETHForTokens      0x3a62b844 бот семьи  0.05 gwei
+    1748 с  -64.7298 BNB  пул    0.00  removeLiquidityETH         0x59083e16 создатель  0.05 gwei
+
+10.11 11:06 0x41C6B8B2 старт 58.0 BNB, пик 64.7, слив на 28.2 мин: removeLiquidityETH от 0xc69b1266 (создатель)
+     902 с   +5.9002 BNB  пул   63.90  swapExactETHForTokens      0x2be7077e бот семьи  0.05 gwei
+     942 с   +0.1197 BNB  пул   64.02  swapExactETHForTokens      0x3a62b844 бот семьи  0.05 gwei
+     974 с   +0.2644 BNB  пул   64.28  swapExactETHForTokens      0x3a62b844 бот семьи  0.05 gwei
+    1022 с   +0.0984 BNB  пул   64.38  swapExactETHForTokens      0xf312fcb0 бот семьи  0.05 gwei
+    1137 с   +0.1347 BNB  пул   64.52  swapExactETHForTokens      0x2be7077e бот семьи  0.05 gwei
+    1263 с   +0.1175 BNB  пул   64.63  swapExactETHForTokens      0xf312fcb0 бот семьи  0.05 gwei
+    1447 с   +0.1030 BNB  пул   64.74  swapExactETHForTokens      0x3a62b844 бот семьи  0.05 gwei
+    1692 с  -64.7351 BNB  пул    0.00  removeLiquidityETH         0xc69b1266 создатель  0.05 gwei
+
+10.11 11:36 0xeCf967F7 старт 58.0 BNB, пик 58.2, слив на 0.8 мин: removeLiquidityETH от 0xc8a56f56 (создатель)
+      17 с   +0.1565 BNB  пул   58.16  swapExactETHForTokens      0x4f7c636d бот семьи  0.05 gwei
+      44 с   +0.0198 BNB  пул   58.18  0a2b8f36                   0x18dd3c14 ПОСТОРОННИЙ  0.078 gwei
+      51 с  -58.1762 BNB  пул    0.00  removeLiquidityETH         0xc8a56f56 создатель  0.05 gwei
+   ! перед сливом последней была покупка постороннего/нашей, за 15 бл.
+
+10.11 11:38 0xAdA11a73 старт 58.0 BNB, пик 58.0, слив на 32.3 мин: removeLiquidityETH от 0x3a4602d2 (создатель)
+    1938 с  -58.0000 BNB  пул    0.00  removeLiquidityETH         0x3a4602d2 создатель  0.05 gwei
+
+10.11 12:11 0x0643Fc1A старт 58.0 BNB, пик 64.6, слив на 28.5 мин: removeLiquidityETH от 0x0c2523fe (создатель)
+     971 с   +5.7031 BNB  пул   63.70  swapExactETHForTokens      0x2be7077e бот семьи  0.05 gwei
+    1021 с   +0.1027 BNB  пул   63.81  swapExactETHForTokens      0x4f7c636d бот семьи  0.05 gwei
+    1069 с   +0.2005 BNB  пул   64.01  swapExactETHForTokens      0x3a62b844 бот семьи  0.05 gwei
+    1120 с   +0.2055 BNB  пул   64.21  swapExactETHForTokens      0x2be7077e бот семьи  0.05 gwei
+    1173 с   +0.1299 BNB  пул   64.34  swapExactETHForTokens      0x2be7077e бот семьи  0.05 gwei
+    1415 с   +0.0956 BNB  пул   64.44  swapExactETHForTokens      0x4f7c636d бот семьи  0.05 gwei
+    1462 с   +0.1357 BNB  пул   64.57  swapExactETHForTokens      0x6d45d791 бот семьи  0.05 gwei
+    1709 с  -64.5702 BNB  пул    0.00  removeLiquidityETH         0x0c2523fe создатель  0.05 gwei
+
+10.11 12:33 0x185e7A9e старт 1.1 BNB, пик 1.1, слив на 3.4 мин: removeLiquidityETH от 0x313cf0f3 (создатель)
+      34 с   +0.0109 BNB  пул    1.06  swapExactETHForTokens      0x8e5b3308 ПОСТОРОННИЙ  0.05 gwei
+      63 с   +0.0098 BNB  пул    1.07  swapExactETHForTokens      0xe37543f8 ПОСТОРОННИЙ  0.05 gwei
+      92 с   +0.0113 BNB  пул    1.08  swapExactETHForTokens      0x2f42bca8 ПОСТОРОННИЙ  0.05 gwei
+     115 с   +0.0110 BNB  пул    1.09  swapExactETHForTokens      0x33886355 ПОСТОРОННИЙ  0.05 gwei
+     139 с   +0.0113 BNB  пул    1.10  swapExactETHForTokens      0xc0f89935 ПОСТОРОННИЙ  0.05 gwei
+     166 с   +0.0093 BNB  пул    1.11  swapExactETHForTokens      0x1520ef6e ПОСТОРОННИЙ  0.05 gwei
+     182 с   +0.0114 BNB  пул    1.12  swapExactETHForTokens      0xe9a97306 ПОСТОРОННИЙ  0.05 gwei
+     201 с   -1.1250 BNB  пул    0.00  removeLiquidityETH         0x313cf0f3 создатель  0.05 gwei
+   ! перед сливом последней была покупка постороннего/нашей, за 42 бл.
+
+10.11 12:40 0x1bE154A5 старт 58.0 BNB, пик 64.8, слив на 29.9 мин: removeLiquidityETH от 0x113868f2 (создатель)
+    1067 с   +6.0801 BNB  пул   64.08  swapExactETHForTokens      0x2be7077e бот семьи  0.05 gwei
+    1087 с   +0.1170 BNB  пул   64.20  swapExactETHForTokens      0x4f7c636d бот семьи  0.05 gwei
+    1124 с   +0.0872 BNB  пул   64.28  swapExactETHForTokens      0x3a62b844 бот семьи  0.05 gwei
+    1151 с   +0.1328 BNB  пул   64.42  swapExactETHForTokens      0x2be7077e бот семьи  0.05 gwei
+    1242 с   +0.1481 BNB  пул   64.57  swapExactETHForTokens      0x2be7077e бот семьи  0.05 gwei
+    1267 с   +0.0843 BNB  пул   64.65  swapExactETHForTokens      0x3a62b844 бот семьи  0.05 gwei
+    1479 с   +0.1224 BNB  пул   64.77  swapExactETHForTokens      0xf312fcb0 бот семьи  0.05 gwei
+    1797 с  -64.7690 BNB  пул    0.00  removeLiquidityETH         0x113868f2 создатель  0.05 gwei
+
+10.11 12:44 0x1A92a9BE старт 120.0 BNB, пик 154.8, слив на 31.1 мин: removeLiquidityETH от 0xc4604a4c (создатель)
+    1429 с  +29.3816 BNB  пул  149.43  swapExactETHForTokens      0xaaeee06c бот семьи  0.05 gwei
+    1498 с   +1.1983 BNB  пул  150.63  swapExactETHForTokens      0x6136d21f бот семьи  0.05 gwei
+    1557 с   +0.5133 BNB  пул  151.14  swapExactETHForTokens      0x8a345c9a бот семьи  0.05 gwei
+    1610 с   +0.9606 BNB  пул  152.10  swapExactETHForTokens      0xfa47989a бот семьи  0.05 gwei
+    1674 с   +0.6241 BNB  пул  152.73  swapExactETHForTokens      0x5bd2a709 бот семьи  0.05 gwei
+    1708 с   +1.3505 BNB  пул  154.08  swapExactETHForTokens      0x8b5c1314 бот семьи  0.05 gwei
+    1743 с   +0.7324 BNB  пул  154.81  swapExactETHForTokens      0x712e518d бот семьи  0.05 gwei
+    1868 с  -154.7951 BNB  пул    0.02  removeLiquidityETH         0xc4604a4c создатель  0.05 gwei
+
+10.11 13:11 0x31e4C20f старт 58.0 BNB, пик 64.8, слив на 29.6 мин: removeLiquidityETH от 0xf1b9970d (создатель)
+    1059 с   +5.5015 BNB  пул   63.50  swapExactETHForTokens      0x6d45d791 бот семьи  0.05 gwei
+    1085 с   +0.2776 BNB  пул   63.78  swapExactETHForTokens      0x3a62b844 бот семьи  0.05 gwei
+    1127 с   +0.2950 BNB  пул   64.07  swapExactETHForTokens      0x2be7077e бот семьи  0.05 gwei
+    1177 с   +0.1769 BNB  пул   64.25  swapExactETHForTokens      0x4f7c636d бот семьи  0.05 gwei
+    1211 с   +0.2003 BNB  пул   64.45  swapExactETHForTokens      0x6d45d791 бот семьи  0.05 gwei
+    1310 с   +0.2054 BNB  пул   64.66  swapExactETHForTokens      0x2be7077e бот семьи  0.05 gwei
+    1355 с   +0.1596 BNB  пул   64.82  swapExactETHForTokens      0xf312fcb0 бот семьи  0.05 gwei
+    1778 с  -64.8134 BNB  пул    0.00  removeLiquidityETH         0xf1b9970d создатель  0.05 gwei
+
+10.11 13:42 0x47F67E4e старт 58.0 BNB, пик 64.8, слив на 29.1 мин: removeLiquidityETH от 0xa50b79e2 (создатель)
+     989 с   +5.5291 BNB  пул   63.53  swapExactETHForTokens      0xf312fcb0 бот семьи  0.05 gwei
+    1033 с   +0.1157 BNB  пул   63.64  swapExactETHForTokens      0x2be7077e бот семьи  0.05 gwei
+    1068 с   +0.2799 BNB  пул   63.92  swapExactETHForTokens      0xf312fcb0 бот семьи  0.05 gwei
+    1118 с   +0.1850 BNB  пул   64.11  swapExactETHForTokens      0x2be7077e бот семьи  0.05 gwei
+    1144 с   +0.3071 BNB  пул   64.42  swapExactETHForTokens      0x2be7077e бот семьи  0.05 gwei
+    1169 с   +0.2343 BNB  пул   64.65  swapExactETHForTokens      0x4f7c636d бот семьи  0.05 gwei
+    1189 с   +0.1390 BNB  пул   64.79  swapExactETHForTokens      0x6d45d791 бот семьи  0.05 gwei
+    1746 с  -64.7872 BNB  пул    0.00  removeLiquidityETH         0xa50b79e2 создатель  0.05 gwei
+
+10.11 14:12 0x0C959d0c старт 58.0 BNB, пик 61.8, слив на 9.0 мин: removeLiquidityETH от 0xd2c30f35 (создатель)
+     360 с   +2.6038 BNB  пул   60.60  swapExactETHForTokens      0x3a62b844 бот семьи  0.05 gwei
+     395 с   +0.0930 BNB  пул   60.70  swapExactETHForTokens      0xf312fcb0 бот семьи  0.05 gwei
+     425 с   +0.2890 BNB  пул   60.99  swapExactETHForTokens      0x2be7077e бот семьи  0.05 gwei
+     475 с   +0.2449 BNB  пул   61.23  swapExactETHForTokens      0x4f7c636d бот семьи  0.05 gwei
+     499 с   +0.2764 BNB  пул   61.51  swapExactETHForTokens      0x6d45d791 бот семьи  0.05 gwei
+     530 с   +0.2358 BNB  пул   61.74  swapExactETHForTokens      0x3a62b844 бот семьи  0.05 gwei
+     533 с   +0.0332 BNB  пул   61.78  34fcd5be                   0x7b89a7af ПОСТОРОННИЙ  0.087 gwei
+     540 с  -61.7746 BNB  пул    0.00  removeLiquidityETH         0xd2c30f35 создатель  0.05 gwei
+   ! перед сливом последней была покупка постороннего/нашей, за 16 бл.
+
+10.11 14:22 0xfB454349 старт 58.0 BNB, пик 64.8, слив на 28.0 мин: removeLiquidityETH от 0x556b1ffb (создатель)
+     906 с   +5.7905 BNB  пул   63.79  swapExactETHForTokens      0x3a62b844 бот семьи  0.05 gwei
+     931 с   +0.2558 BNB  пул   64.05  swapExactETHForTokens      0xf312fcb0 бот семьи  0.05 gwei
+     968 с   +0.2249 BNB  пул   64.27  swapExactETHForTokens      0x2be7077e бот семьи  0.05 gwei
+     999 с   +0.1292 BNB  пул   64.40  swapExactETHForTokens      0x4f7c636d бот семьи  0.05 gwei
+    1321 с   +0.1497 BNB  пул   64.55  swapExactETHForTokens      0x4f7c636d бот семьи  0.05 gwei
+    1411 с   +0.1334 BNB  пул   64.68  swapExactETHForTokens      0x3a62b844 бот семьи  0.05 gwei
+    1519 с   +0.1186 BNB  пул   64.80  swapExactETHForTokens      0x2be7077e бот семьи  0.05 gwei
+    1681 с  -64.7992 BNB  пул    0.00  removeLiquidityETH         0x556b1ffb создатель  0.05 gwei
+
+10.11 14:51 0xA1EFEf37 старт 58.0 BNB, пик 64.9, слив на 30.3 мин: removeLiquidityETH от 0x9ee35280 (создатель)
+    1238 с   +6.0201 BNB  пул   64.02  swapExactETHForTokens      0xf312fcb0 бот семьи  0.05 gwei
+    1276 с   +0.2177 BNB  пул   64.24  swapExactETHForTokens      0x2be7077e бот семьи  0.05 gwei
+    1301 с   +0.2191 BNB  пул   64.46  swapExactETHForTokens      0x3a62b844 бот семьи  0.05 gwei
+    1350 с   +0.1576 BNB  пул   64.61  swapExactETHForTokens      0xf312fcb0 бот семьи  0.05 gwei
+    1368 с   +0.1216 BNB  пул   64.74  swapExactETHForTokens      0x2be7077e бот семьи  0.05 gwei
+    1514 с   +0.0863 BNB  пул   64.82  swapExactETHForTokens      0x3a62b844 бот семьи  0.05 gwei
+    1712 с   +0.0853 BNB  пул   64.91  swapExactETHForTokens      0x4f7c636d бот семьи  0.05 gwei
+    1816 с  -64.9048 BNB  пул    0.00  removeLiquidityETH         0x9ee35280 создатель  0.05 gwei
+
+10.11 15:21 0x970C157e старт 120.0 BNB, пик 127.4, слив на 6.4 мин: removeLiquidityETH от 0x34cfdd50 (создатель)
+     137 с   +3.8287 BNB  пул  123.88  swapExactETHForTokens      0x0ae86c53 бот семьи  0.05 gwei
+     197 с   +0.4280 BNB  пул  124.31  swapExactETHForTokens      0x0c739a74 бот семьи  0.05 gwei
+     245 с   +0.4839 BNB  пул  124.79  swapExactETHForTokens      0x85dcd7e8 бот семьи  0.05 gwei
+     287 с   +0.6048 BNB  пул  125.40  swapExactETHForTokens      0xe8981eae бот семьи  0.05 gwei
+     327 с   +0.7658 BNB  пул  126.16  swapExactETHForTokens      0xb71a9dd4 бот семьи  0.05 gwei
+     369 с   +1.1827 BNB  пул  127.34  swapExactETHForTokens      0x6d00b7dd бот семьи  0.05 gwei
+     373 с   +0.0199 BNB  пул  127.36  810c705b                   0xb22debe9 ПОСТОРОННИЙ  0.076 gwei
+     386 с  -127.3608 BNB  пул    0.00  removeLiquidityETH         0x34cfdd50 создатель  0.05 gwei
+   ! перед сливом последней была покупка постороннего/нашей, за 28 бл.
+
+10.11 15:23 0xa314E0d0 старт 58.0 BNB, пик 64.8, слив на 29.6 мин: removeLiquidityETH от 0x929be78c (создатель)
+     998 с   +5.8498 BNB  пул   63.85  swapExactETHForTokens      0x3a62b844 бот семьи  0.05 gwei
+    1021 с   +0.1530 BNB  пул   64.00  swapExactETHForTokens      0xf312fcb0 бот семьи  0.05 gwei
+    1062 с   +0.2475 BNB  пул   64.25  swapExactETHForTokens      0x2be7077e бот семьи  0.05 gwei
+    1116 с   +0.1851 BNB  пул   64.44  swapExactETHForTokens      0x2be7077e бот семьи  0.05 gwei
+    1161 с   +0.1467 BNB  пул   64.58  swapExactETHForTokens      0x6d45d791 бот семьи  0.05 gwei
+    1197 с   +0.1244 BNB  пул   64.71  swapExactETHForTokens      0xf312fcb0 бот семьи  0.05 gwei
+    1496 с   +0.0990 BNB  пул   64.81  swapExactETHForTokens      0x4f7c636d бот семьи  0.05 gwei
+    1778 с  -64.8026 BNB  пул    0.00  removeLiquidityETH         0x929be78c создатель  0.05 gwei
+
+10.11 15:31 0x0C6DB34A старт 120.0 BNB, пик 158.4, слив нет
+    1964 с  +33.9781 BNB  пул  154.03  swapExactETHForTokens      0x0ae86c53 бот семьи  0.05 gwei
+    2016 с   +0.5678 BNB  пул  154.60  swapExactETHForTokens      0x0c739a74 бот семьи  0.05 gwei
+    2077 с   +0.6862 BNB  пул  155.28  swapExactETHForTokens      0x85dcd7e8 бот семьи  0.05 gwei
+    2141 с   +0.4911 BNB  пул  155.77  swapExactETHForTokens      0xe8981eae бот семьи  0.05 gwei
+    2203 с   +0.5922 BNB  пул  156.37  swapExactETHForTokens      0x940ce353 бот семьи  0.05 gwei
+    2262 с   +0.4745 BNB  пул  156.84  swapExactETHForTokens      0x14467ad5 бот семьи  0.05 gwei
+    2329 с   +0.5391 BNB  пул  157.38  swapExactETHForTokens      0x34a65721 бот семьи  0.05 gwei
+    2361 с   +1.0109 BNB  пул  158.39  swapExactETHForTokens      0xaaeee06c бот семьи  0.05 gwei
+
+10.11 15:53 0xB414d888 старт 58.0 BNB, пик 64.8, слив на 28.8 мин: removeLiquidityETH от 0x63764ff3 (создатель)
+     886 с   +5.6224 BNB  пул   63.62  swapExactETHForTokens      0x4f7c636d бот семьи  0.05 gwei
+     923 с   +0.2500 BNB  пул   63.87  swapExactETHForTokens      0x6d45d791 бот семьи  0.05 gwei
+     956 с   +0.2947 BNB  пул   64.17  swapExactETHForTokens      0xf312fcb0 бот семьи  0.05 gwei
+    1024 с   +0.1455 BNB  пул   64.31  swapExactETHForTokens      0xf312fcb0 бот семьи  0.05 gwei
+    1069 с   +0.2347 BNB  пул   64.55  swapExactETHForTokens      0x6d45d791 бот семьи  0.05 gwei
+    1105 с   +0.1766 BNB  пул   64.72  swapExactETHForTokens      0x2be7077e бот семьи  0.05 gwei
+    1186 с   +0.0820 BNB  пул   64.81  swapExactETHForTokens      0x4f7c636d бот семьи  0.05 gwei
+    1726 с  -64.8030 BNB  пул    0.00  removeLiquidityETH         0x63764ff3 создатель  0.05 gwei
+
+10.11 16:19 0x5D5F454c старт 120.0 BNB, пик 137.6, слив на 19.2 мин: removeLiquidityETH от 0x97fe54fb (создатель)
+     778 с  +13.4929 BNB  пул  133.54  swapExactETHForTokens      0xfa47989a бот семьи  0.05 gwei
+     835 с   +1.1245 BNB  пул  134.67  swapExactETHForTokens      0x5bd2a709 бот семьи  0.05 gwei
+     907 с   +0.7856 BNB  пул  135.45  swapExactETHForTokens      0x8b5c1314 бот семьи  0.05 gwei
+     976 с   +0.9876 BNB  пул  136.44  swapExactETHForTokens      0x712e518d бот семьи  0.05 gwei
+    1024 с   +0.5596 BNB  пул  137.00  swapExactETHForTokens      0x04f943ba бот семьи  0.05 gwei
+    1095 с   +0.5555 BNB  пул  137.56  swapExactETHForTokens      0xb411cf52 бот семьи  0.05 gwei
+    1143 с   +0.0082 BNB  пул  137.56  765e827f                   0xb67fc1eb ПОСТОРОННИЙ  0.05 gwei
+    1153 с  -137.5564 BNB  пул    0.01  removeLiquidityETH         0x97fe54fb создатель  0.05 gwei
+   ! перед сливом последней была покупка постороннего/нашей, за 23 бл.
+
+10.11 16:23 0xF6b9DA6a старт 58.0 BNB, пик 64.8, слив на 27.6 мин: removeLiquidityETH от 0xb037a980 (создатель)
+     936 с   +5.7465 BNB  пул   63.75  swapExactETHForTokens      0x3a62b844 бот семьи  0.05 gwei
+     964 с   +0.2073 BNB  пул   63.95  swapExactETHForTokens      0xf312fcb0 бот семьи  0.05 gwei
+    1004 с   +0.1060 BNB  пул   64.06  swapExactETHForTokens      0x2be7077e бот семьи  0.05 gwei
+    1046 с   +0.2631 BNB  пул   64.32  swapExactETHForTokens      0x4f7c636d бот семьи  0.05 gwei
+    1098 с   +0.1480 BNB  пул   64.47  swapExactETHForTokens      0x6d45d791 бот семьи  0.05 gwei
+    1166 с   +0.1914 BNB  пул   64.66  swapExactETHForTokens      0x3a62b844 бот семьи  0.05 gwei
+    1424 с   +0.1058 BNB  пул   64.77  swapExactETHForTokens      0x2be7077e бот семьи  0.05 gwei
+    1653 с  -64.7652 BNB  пул    0.00  removeLiquidityETH         0xb037a980 создатель  0.05 gwei
+
+10.11 16:42 0xA27AE774 старт 120.0 BNB, пик 157.1, слив нет
+    2041 с  +31.9024 BNB  пул  151.95  swapExactETHForTokens      0x712e518d бот семьи  0.05 gwei
+    2091 с   +0.5376 BNB  пул  152.49  swapExactETHForTokens      0x04f943ba бот семьи  0.05 gwei
+    2148 с   +0.5758 BNB  пул  153.07  swapExactETHForTokens      0x0ae86c53 бот семьи  0.05 gwei
+    2178 с   +1.0617 BNB  пул  154.13  swapExactETHForTokens      0x0c739a74 бот семьи  0.05 gwei
+    2230 с   +0.7605 BNB  пул  154.89  swapExactETHForTokens      0x6d00b7dd бот семьи  0.05 gwei
+    2300 с   +1.0676 BNB  пул  155.96  swapExactETHForTokens      0x940ce353 бот семьи  0.05 gwei
+    2363 с   +0.4387 BNB  пул  156.39  swapExactETHForTokens      0x14467ad5 бот семьи  0.05 gwei
+    2400 с   +0.6800 BNB  пул  157.07  swapExactETHForTokens      0x34a65721 бот семьи  0.05 gwei
+
+10.11 16:52 0x3bAeF740 старт 58.0 BNB, пик 64.7, слив на 25.8 мин: removeLiquidityETH от 0x70dd8ae4 (создатель)
+    1186 с   +6.0955 BNB  пул   64.10  swapExactETHForTokens      0xf312fcb0 бот семьи  0.05 gwei
+    1228 с   +0.1873 BNB  пул   64.28  swapExactETHForTokens      0x2be7077e бот семьи  0.05 gwei
+    1255 с   +0.0858 BNB  пул   64.37  swapExactETHForTokens      0x6d45d791 бот семьи  0.05 gwei
+    1297 с   +0.1409 BNB  пул   64.51  swapExactETHForTokens      0xf312fcb0 бот семьи  0.05 gwei
+    1382 с   +0.1026 BNB  пул   64.61  swapExactETHForTokens      0x2be7077e бот семьи  0.05 gwei
+    1529 с   +0.0838 BNB  пул   64.70  swapExactETHForTokens      0x2be7077e бот семьи  0.05 gwei
+    1542 с   +0.0421 BNB  пул   64.74  d808d889                   0x97689227 ПОСТОРОННИЙ  0.071 gwei
+    1549 с  -64.7351 BNB  пул    0.00  removeLiquidityETH         0x70dd8ae4 создатель  0.05 gwei
+   ! перед сливом последней была покупка постороннего/нашей, за 15 бл.
+
+10.11 17:19 0x6e6E009A старт 58.0 BNB, пик 64.7, слив на 27.2 мин: removeLiquidityETH от 0x11499751 (создатель)
+     940 с   +5.6111 BNB  пул   63.61  swapExactETHForTokens      0x2be7077e бот семьи  0.05 gwei
+     990 с   +0.3142 BNB  пул   63.93  swapExactETHForTokens      0x4f7c636d бот семьи  0.05 gwei
+    1023 с   +0.0911 BNB  пул   64.02  swapExactETHForTokens      0x6d45d791 бот семьи  0.05 gwei
+    1062 с   +0.2937 BNB  пул   64.31  swapExactETHForTokens      0x3a62b844 бот семьи  0.05 gwei
+    1132 с   +0.1702 BNB  пул   64.48  swapExactETHForTokens      0xf312fcb0 бот семьи  0.05 gwei
+    1155 с   +0.1805 BNB  пул   64.66  swapExactETHForTokens      0x2be7077e бот семьи  0.05 gwei
+    1250 с   +0.0839 BNB  пул   64.74  swapExactETHForTokens      0x4f7c636d бот семьи  0.05 gwei
+    1634 с  -64.7419 BNB  пул    0.00  removeLiquidityETH         0x11499751 создатель  0.05 gwei
+
+10.11 17:32 0xf349e09D старт 120.0 BNB, пик 152.1, слив нет
+    1722 с  +27.1164 BNB  пул  147.17  swapExactETHForTokens      0x8a345c9a бот семьи  0.05 gwei
+    1788 с   +0.9511 BNB  пул  148.12  swapExactETHForTokens      0x45af7934 бот семьи  0.05 gwei
+    1852 с   +0.6865 BNB  пул  148.80  swapExactETHForTokens      0xfa47989a бот семьи  0.05 gwei
+    1905 с   +0.7603 BNB  пул  149.56  swapExactETHForTokens      0x5bd2a709 бот семьи  0.05 gwei
+    1936 с   +0.5455 BNB  пул  150.11  swapExactETHForTokens      0x8b5c1314 бот семьи  0.05 gwei
+    1969 с   +0.6277 BNB  пул  150.74  swapExactETHForTokens      0x712e518d бот семьи  0.05 gwei
+    2030 с   +0.5882 BNB  пул  151.33  swapExactETHForTokens      0x04f943ba бот семьи  0.05 gwei
+    2072 с   +0.7382 BNB  пул  152.06  swapExactETHForTokens      0xb411cf52 бот семьи  0.05 gwei
+
+10.11 17:47 0xd107cd4C старт 58.0 BNB, пик 58.6, слив на 0.9 мин: removeLiquidityETH от 0x17e55be4 (создатель)
+      17 с   +0.2951 BNB  пул   58.30  swapExactETHForTokens      0x4f7c636d бот семьи  0.05 gwei
+      39 с   +0.3003 BNB  пул   58.60  swapExactETHForTokens      0x6d45d791 бот семьи  0.05 gwei
+      49 с   +0.0043 BNB  пул   58.60  27772d13                   0x457203c8 ПОСТОРОННИЙ  0.098 gwei
+      55 с  -58.5995 BNB  пул    0.00  removeLiquidityETH         0x17e55be4 создатель  0.05 gwei
+   ! перед сливом последней была покупка постороннего/нашей, за 15 бл.
+
+10.11 17:49 0xd8da6094 старт 58.0 BNB, пик 61.7, слив на 10.4 мин: removeLiquidityETH от 0xa06fa141 (создатель)
+     475 с   +3.0048 BNB  пул   61.00  swapExactETHForTokens      0xf312fcb0 бот семьи  0.05 gwei
+     490 с   +0.2118 BNB  пул   61.22  swapExactETHForTokens      0x2be7077e бот семьи  0.05 gwei
+     530 с   +0.1645 BNB  пул   61.38  swapExactETHForTokens      0x4f7c636d бот семьи  0.05 gwei
+     560 с   +0.0955 BNB  пул   61.48  swapExactETHForTokens      0x6d45d791 бот семьи  0.05 gwei
+     582 с   +0.1211 BNB  пул   61.60  swapExactETHForTokens      0x3a62b844 бот семьи  0.05 gwei
+     620 с   +0.0015 BNB  пул   61.60  swapExactETHForTokensFee   0x69b55cc2 ПОСТОРОННИЙ  0.06 gwei
+     622 с   +0.1206 BNB  пул   61.72  swapExactETHForTokens      0xf312fcb0 бот семьи  0.05 gwei
+     627 с  -61.7182 BNB  пул    0.00  removeLiquidityETH         0xa06fa141 создатель  0.05 gwei
+
+10.11 18:01 0xA859f479 старт 58.0 BNB, пик 60.1, слив нет
+     100 с   +0.6616 BNB  пул   58.66  swapExactETHForTokens      0x3a62b844 бот семьи  0.05 gwei
+     145 с   +0.1178 BNB  пул   58.78  swapExactETHForTokens      0xf312fcb0 бот семьи  0.05 gwei
+     188 с   +0.1758 BNB  пул   58.96  swapExactETHForTokens      0x2be7077e бот семьи  0.05 gwei
+     237 с   +0.1812 BNB  пул   59.14  swapExactETHForTokens      0x4f7c636d бот семьи  0.05 gwei
+     260 с   +0.1973 BNB  пул   59.33  swapExactETHForTokens      0x6d45d791 бот семьи  0.05 gwei
+     278 с   +0.3084 BNB  пул   59.64  swapExactETHForTokens      0x3a62b844 бот семьи  0.05 gwei
+     302 с   +0.1415 BNB  пул   59.78  swapExactETHForTokens      0xf312fcb0 бот семьи  0.05 gwei
+     336 с   +0.3127 BNB  пул   60.10  swapExactETHForTokens      0x2be7077e бот семьи  0.05 gwei

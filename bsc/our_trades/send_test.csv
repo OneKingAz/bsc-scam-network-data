@@ -1,0 +1,131 @@
+﻿time;node;send_head;land_block;blocks;post_ms;error
+2026-11-10 18:23:05;https://rpc-bsc.48.club;132775635;132775638;3;127;
+2026-11-10 18:23:07;https://bsc-dataseed.bnbchain.org;132775638;132775640;2;330;
+2026-11-10 18:23:08;https://rpc-bsc.48.club;132775641;132775643;2;121;
+2026-11-10 18:23:10;https://bsc-dataseed.bnbchain.org;132775643;132775646;3;333;
+2026-11-10 18:23:11;https://rpc-bsc.48.club;132775647;132775650;3;123;
+2026-11-10 18:23:12;https://bsc-dataseed.bnbchain.org;132775650;132775653;3;331;
+2026-11-10 18:23:14;https://rpc-bsc.48.club;132775653;132775655;2;124;
+2026-11-10 18:23:15;https://bsc-dataseed.bnbchain.org;132775656;132775658;2;346;
+2026-11-10 18:23:17;https://rpc-bsc.48.club;132775660;132775663;3;122;
+2026-11-10 18:23:19;https://bsc-dataseed.bnbchain.org;132775664;132775667;3;345;
+2026-11-10 18:23:20;https://rpc-bsc.48.club;132775668;132775670;2;125;
+2026-11-10 18:23:22;https://bsc-dataseed.bnbchain.org;132775671;132775673;2;332;
+2026-11-10 18:23:23;https://rpc-bsc.48.club;132775674;132775677;3;122;
+2026-11-10 18:23:25;https://bsc-dataseed.bnbchain.org;132775678;132775681;3;333;
+2026-11-10 18:23:30;https://rpc-bsc.48.club;132775681;132775684;3;122;
+2026-11-10 18:23:31;https://bsc-dataseed.bnbchain.org;132775692;132775694;2;329;
+2026-11-10 18:23:33;https://rpc-bsc.48.club;132775695;132775698;3;126;
+2026-11-10 18:23:35;https://bsc-dataseed.bnbchain.org;132775699;132775702;3;332;
+2026-11-10 18:23:36;https://rpc-bsc.48.club;132775703;132775704;1;120;
+2026-11-10 18:23:37;https://bsc-dataseed.bnbchain.org;132775705;132775708;3;330;
+2026-11-10 18:23:39;https://rpc-bsc.48.club;132775709;132775710;1;126;
+2026-11-10 18:23:40;https://bsc-dataseed.bnbchain.org;132775711;132775714;3;331;
+2026-11-10 18:23:41;https://rpc-bsc.48.club;132775714;132775716;2;131;
+2026-11-10 18:23:42;https://bsc-dataseed.bnbchain.org;132775716;132775719;3;332;
+2026-11-10 18:23:44;https://rpc-bsc.48.club;132775720;132775724;4;147;
+2026-11-10 18:23:46;https://bsc-dataseed.bnbchain.org;132775725;132775727;2;332;
+2026-11-10 18:23:47;https://rpc-bsc.48.club;132775728;132775730;2;127;
+2026-11-10 18:23:49;https://bsc-dataseed.bnbchain.org;132775731;132775733;2;330;
+2026-11-10 18:23:50;https://rpc-bsc.48.club;132775734;132775736;2;127;
+2026-11-10 18:23:52;https://bsc-dataseed.bnbchain.org;132775737;132775740;3;330;
+2026-11-10 18:23:53;https://rpc-bsc.48.club;132775740;132775742;2;125;
+2026-11-10 18:23:54;https://bsc-dataseed.bnbchain.org;132775743;132775746;3;332;
+2026-11-10 18:23:56;https://rpc-bsc.48.club;132775746;132775751;5;123;
+2026-11-10 18:23:58;https://bsc-dataseed.bnbchain.org;132775751;132775753;2;332;
+2026-11-10 18:23:59;https://rpc-bsc.48.club;132775754;132775756;2;133;
+2026-11-10 18:24:01;https://bsc-dataseed.bnbchain.org;132775757;132775760;3;331;
+2026-11-10 18:24:02;https://rpc-bsc.48.club;132775761;132775762;1;121;
+2026-11-10 18:24:03;https://bsc-dataseed.bnbchain.org;132775764;132775766;2;329;
+2026-11-10 18:24:05;https://rpc-bsc.48.club;132775766;132775768;2;129;
+2026-11-10 18:24:06;https://bsc-dataseed.bnbchain.org;132775769;132775772;3;334;
+2026-11-10 18:29:30;https://rpc-bsc.48.club;132776487;132776489;2;109;
+2026-11-10 18:29:31;https://rpc.48.club;132776491;132776494;3;270;
+2026-11-10 18:29:33;https://bsc.blockrazor.xyz;132776494;132776500;6;348;
+2026-11-10 18:29:35;https://bscrpc.pancakeswap.finance;132776500;132776504;4;622;
+2026-11-10 18:29:36;https://pancake-bnb.rpc.blxrbdn.com;132776504;;;1005;HTTPSConnectionPool(host='pancake-bnb.rpc.blxrbdn.com', port
+2026-11-10 18:30:28;https://rpc.bsc.jetbldr.xyz;132776506;;;1244;не попала за 30 с
+2026-11-10 18:30:30;https://rpc-bsc.48.club;132776622;132776624;2;121;
+2026-11-10 18:30:31;https://rpc.48.club;132776625;132776627;2;109;
+2026-11-10 18:30:32;https://bsc.blockrazor.xyz;132776628;132776630;2;97;
+2026-11-10 18:30:34;https://bscrpc.pancakeswap.finance;132776630;132776633;3;133;
+2026-11-10 18:30:34;https://pancake-bnb.rpc.blxrbdn.com;132776634;;;656;HTTPSConnectionPool(host='pancake-bnb.rpc.blxrbdn.com', port
+2026-11-10 18:31:25;https://rpc.bsc.jetbldr.xyz;132776635;;;412;не попала за 30 с
+2026-11-10 18:31:26;https://rpc-bsc.48.club;132776747;132776749;2;112;
+2026-11-10 18:31:27;https://rpc.48.club;132776750;132776752;2;129;
+2026-11-10 18:31:28;https://bsc.blockrazor.xyz;132776752;132776755;3;97;
+2026-11-10 18:31:30;https://bscrpc.pancakeswap.finance;132776755;132776758;3;138;
+2026-11-10 18:31:31;https://pancake-bnb.rpc.blxrbdn.com;132776759;;;668;HTTPSConnectionPool(host='pancake-bnb.rpc.blxrbdn.com', port
+2026-11-10 18:32:23;https://rpc.bsc.jetbldr.xyz;132776760;;;405;не попала за 30 с
+2026-11-10 18:32:25;https://rpc-bsc.48.club;132776876;132776880;4;110;
+2026-11-10 18:32:27;https://rpc.48.club;132776881;132776884;3;112;
+2026-11-10 18:32:28;https://bsc.blockrazor.xyz;132776886;132776888;2;97;
+2026-11-10 18:32:30;https://bscrpc.pancakeswap.finance;132776888;132776891;3;139;
+2026-11-10 18:32:31;https://pancake-bnb.rpc.blxrbdn.com;132776891;;;887;HTTPSConnectionPool(host='pancake-bnb.rpc.blxrbdn.com', port
+2026-11-10 18:33:06;https://rpc.bsc.jetbldr.xyz;132776893;132776972;79;405;
+2026-11-10 18:33:07;https://rpc-bsc.48.club;132776973;132776975;2;109;
+2026-11-10 18:33:08;https://rpc.48.club;132776976;132776977;1;113;
+2026-11-10 18:33:10;https://bsc.blockrazor.xyz;132776978;132776982;4;97;
+2026-11-10 18:33:12;https://bscrpc.pancakeswap.finance;132776982;132776985;3;131;
+2026-11-10 18:33:13;https://pancake-bnb.rpc.blxrbdn.com;132776985;;;653;HTTPSConnectionPool(host='pancake-bnb.rpc.blxrbdn.com', port
+2026-11-10 18:33:55;https://rpc.bsc.jetbldr.xyz;132776987;;;414;не попала за 30 с
+2026-11-10 18:33:57;https://rpc-bsc.48.club;132777082;132777085;3;108;
+2026-11-10 18:33:58;https://rpc.48.club;132777085;132777087;2;112;
+2026-11-10 18:33:59;https://bsc.blockrazor.xyz;132777087;132777090;3;97;
+2026-11-10 18:34:01;https://bscrpc.pancakeswap.finance;132777091;132777094;3;131;
+2026-11-10 18:34:01;https://pancake-bnb.rpc.blxrbdn.com;132777094;;;666;HTTPSConnectionPool(host='pancake-bnb.rpc.blxrbdn.com', port
+2026-11-10 18:34:40;https://rpc.bsc.jetbldr.xyz;132777096;;;416;не попала за 30 с
+2026-11-10 18:34:41;https://rpc-bsc.48.club;132777181;132777183;2;112;
+2026-11-10 18:34:42;https://rpc.48.club;132777184;132777186;2;108;
+2026-11-10 18:34:44;https://bsc.blockrazor.xyz;132777186;132777189;3;96;
+2026-11-10 18:34:45;https://bscrpc.pancakeswap.finance;132777190;132777192;2;132;
+2026-11-10 18:34:46;https://pancake-bnb.rpc.blxrbdn.com;132777193;;;652;HTTPSConnectionPool(host='pancake-bnb.rpc.blxrbdn.com', port
+2026-11-10 18:35:24;https://rpc.bsc.jetbldr.xyz;132777194;;;413;не попала за 30 с
+2026-11-10 18:35:26;https://rpc-bsc.48.club;132777280;132777283;3;115;
+2026-11-10 18:35:28;https://rpc.48.club;132777283;132777286;3;117;
+2026-11-10 18:35:29;https://bsc.blockrazor.xyz;132777286;132777290;4;98;
+2026-11-10 18:35:31;https://bscrpc.pancakeswap.finance;132777290;132777293;3;246;
+2026-11-10 18:35:31;https://pancake-bnb.rpc.blxrbdn.com;132777294;;;671;HTTPSConnectionPool(host='pancake-bnb.rpc.blxrbdn.com', port
+2026-11-10 18:36:10;https://rpc.bsc.jetbldr.xyz;132777295;;;414;не попала за 30 с
+2026-11-10 18:36:11;https://rpc-bsc.48.club;132777381;132777384;3;116;
+2026-11-10 18:36:12;https://rpc.48.club;132777385;132777386;1;107;
+2026-11-10 18:36:14;https://bsc.blockrazor.xyz;132777386;132777390;4;97;
+2026-11-10 18:36:15;https://bscrpc.pancakeswap.finance;132777390;132777393;3;132;
+2026-11-10 18:36:16;https://pancake-bnb.rpc.blxrbdn.com;132777393;;;713;HTTPSConnectionPool(host='pancake-bnb.rpc.blxrbdn.com', port
+2026-11-10 18:36:54;https://rpc.bsc.jetbldr.xyz;132777395;;;412;не попала за 30 с
+2026-11-10 18:36:55;https://rpc-bsc.48.club;132777480;132777482;2;109;
+2026-11-10 18:36:56;https://rpc.48.club;132777482;132777484;2;113;
+2026-11-10 18:36:58;https://bsc.blockrazor.xyz;132777484;132777488;4;98;
+2026-11-10 18:37:00;https://bscrpc.pancakeswap.finance;132777489;132777492;3;172;
+2026-11-10 18:37:01;https://pancake-bnb.rpc.blxrbdn.com;132777492;;;718;HTTPSConnectionPool(host='pancake-bnb.rpc.blxrbdn.com', port
+2026-11-10 18:37:39;https://rpc.bsc.jetbldr.xyz;132777494;;;412;не попала за 30 с
+2026-11-10 18:37:40;https://rpc-bsc.48.club;132777579;132777581;2;112;
+2026-11-10 18:37:41;https://rpc.48.club;132777581;132777584;3;108;
+2026-11-10 18:37:43;https://bsc.blockrazor.xyz;132777585;132777588;3;97;
+2026-11-10 18:37:44;https://bscrpc.pancakeswap.finance;132777588;132777591;3;132;
+2026-11-10 18:37:45;https://pancake-bnb.rpc.blxrbdn.com;132777591;;;668;HTTPSConnectionPool(host='pancake-bnb.rpc.blxrbdn.com', port
+2026-11-10 18:38:37;https://rpc.bsc.jetbldr.xyz;132777593;;;414;не попала за 30 с
+2026-11-10 18:38:39;https://rpc-bsc.48.club;132777708;132777711;3;109;
+2026-11-10 18:38:40;https://rpc.48.club;132777713;132777714;1;112;
+2026-11-10 18:38:42;https://bsc.blockrazor.xyz;132777715;132777719;4;98;
+2026-11-10 18:38:44;https://bscrpc.pancakeswap.finance;132777720;132777722;2;132;
+2026-11-10 18:38:45;https://pancake-bnb.rpc.blxrbdn.com;132777723;;;886;HTTPSConnectionPool(host='pancake-bnb.rpc.blxrbdn.com', port
+2026-11-10 18:39:31;https://rpc.bsc.jetbldr.xyz;132777725;;;422;не попала за 30 с
+2026-11-10 18:39:32;https://rpc-bsc.48.club;132777828;132777830;2;110;
+2026-11-10 18:39:33;https://rpc.48.club;132777831;132777833;2;113;
+2026-11-10 18:39:35;https://bsc.blockrazor.xyz;132777833;132777837;4;98;
+2026-11-10 18:39:37;https://bscrpc.pancakeswap.finance;132777837;132777840;3;312;
+2026-11-10 18:39:37;https://pancake-bnb.rpc.blxrbdn.com;132777840;;;743;HTTPSConnectionPool(host='pancake-bnb.rpc.blxrbdn.com', port
+2026-11-10 18:41:13;https://rpc.bsc.jetbldr.xyz;132777842;;;421;не попала за 30 с
+2026-11-10 18:41:15;https://rpc-bsc.48.club;132778055;132778057;2;266;
+2026-11-10 18:41:22;https://rpc.48.club;132778058;;;7106;HTTPSConnectionPool(host='rpc.48.club', port=443): Read time
+2026-11-10 18:41:28;https://bsc.blockrazor.xyz;132778074;;;5930;HTTPSConnectionPool(host='bsc.blockrazor.xyz', port=443): Re
+2026-11-10 18:41:34;https://bscrpc.pancakeswap.finance;132778087;;;5699;HTTPSConnectionPool(host='bscrpc.pancakeswap.finance', port=
+2026-11-10 18:41:35;https://pancake-bnb.rpc.blxrbdn.com;132778100;;;1011;HTTPSConnectionPool(host='pancake-bnb.rpc.blxrbdn.com', port
+2026-11-10 18:41:40;https://rpc.bsc.jetbldr.xyz;132778102;;;5949;HTTPSConnectionPool(host='rpc.bsc.jetbldr.xyz', port=443): R
+2026-11-10 18:41:42;https://rpc-bsc.48.club;132778116;132778118;2;116;
+2026-11-10 18:41:47;https://rpc.48.club;132778119;132778122;3;352;
+2026-11-10 18:41:48;https://bsc.blockrazor.xyz;132778130;132778133;3;371;
+2026-11-10 18:41:50;https://bscrpc.pancakeswap.finance;132778133;132778136;3;783;
+2026-11-10 18:41:50;https://pancake-bnb.rpc.blxrbdn.com;132778136;;;693;HTTPSConnectionPool(host='pancake-bnb.rpc.blxrbdn.com', port
+2026-11-10 18:42:41;https://rpc.bsc.jetbldr.xyz;132778138;;;1169;не попала за 30 с

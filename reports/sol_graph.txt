@@ -1,0 +1,26 @@
+транзакций разобрано 41173; кошельков группы 116
+переводы SOL внутри группы: 2095.88 SOL; из группы наружу 1809.39 SOL (2013 адресов); снаружи в группу 1713.53 SOL (33 адресов)
+главные получатели снаружи: CztKejxYEof7K3cBiMUUkC7qAf1Wt787iNEHY2ryYha8 428.61, 8JPsy9Tb1mJZLVu2A7LdUMA4N56TeBF2spKyAv7L8K13 347.05, B7StC42h126Hmtkw4GoRMcaHA5ZuKawfa9fCSTV6UMSj 315.18, 7ycXbCiWLYVrSNfMSGsMMiWXdGSxCbSsGUrEEBhYNw7W 273.62, 89coAVTUZetQ4K6Ct4nsqtLtMCaR4X2mWStdBsmdECur 272.52, FwJrhdYMt2zz7Lw3DyCLwTb2Tvs7xiTjMqhZL4T79ULF 73.07
+главные источники снаружи: B7StC42h126Hmtkw4GoRMcaHA5ZuKawfa9fCSTV6UMSj 1596.02, F4AirDrbRiNES9VgCt4hGtS6PnaENbdWnvEthkHt3F4V 117.50, 14oVSiBnJevg8cYKWMQw2kp9mPTEp7UTExcxauF4C1wz 0.01, Czg8Bv5CJg3gtqH4LhYczwMSMpLHzfwu4CyYehoVVBdL 0.00, CztKm81fU6e7idgW37kbrC7u9EpoHQ2SoCcqw6Ky5ha8 0.00, GN1gr5aGWKV5BD8NvhWGgXuAYXAbf7QcdwLwG8xbX7mF 0.00
+монет, которыми торговала группа в окне: 470 (GEKKO среди них)
+кошельки группы (без создателя/спонсора), в окне: GEKKO потратили 8219.16 / получили 8056.92 SOL, другие монеты потратили 3515.14 / получили 3219.10, комиссии сети 0.169, прочее +0.00
+создатель: GEKKO 0.02/0.00, другие 0.50/0.01, переводы получил 372.00 / отправил 1762.18, прочее +1249.51, транзакций 4864
+спонсор: GEKKO 112.45/170.27, другие 2129.60/3986.92, переводы получил 0.00 / отправил 1771.08, прочее +0.00, транзакций 5797
+создатель создал монет (в просмотренной истории): 18; спонсор: 0
+
+топ-15 монет по обороту группы: mint | кошельков группы | покупок/продаж | потрачено/получено SOL | итог | создана
+GRoH9LtLutTyrx9WR3aeNHqsEnDtBy2Bck5nwm4ADiyn | 116 | 12130/8741 | 8331.63/8227.19 | -104.44 | создатель
+BvcKi8kZrMb7NtVee5iQayVgrKF7smGskNvKPAC5atT5 | 110 | 4142/3079 | 2883.53/2709.05 | -174.48 | создатель
+DNrKkrDpqF4sLtgcFrQHMoYid3oqjrGZabGx93ijhgL | 115 | 1055/772 | 694.85/676.00 | -18.85 | создатель
+AEtWh4EaXwRGmWCSzhU3kF3UkpyaxfuhP7mum8oN4Vxt | 1 | 406/333 | 333.88/253.48 | -80.41 | -
+AjWDUxLxvJ372TEvb88mNQPtFTdGeZSHkVRojtSzzMxZ | 1 | 111/124 | 107.94/207.91 | +99.97 | -
+EaetAXVpCLPv5BKmJUYa2iogeXGdLMHL6CALqehGz45 | 1 | 155/148 | 131.12/175.62 | +44.50 | -
+H62vVAQHTwoVhGhwYcT2JFq1rnJriJhjGmJVTzAVisuT | 1 | 133/112 | 140.84/153.80 | +12.96 | -
+C2cGuf5yGVtRUt7JJAjiUVphgpg4uE2rQ2PSkQzvZEQQ | 1 | 106/126 | 108.54/184.44 | +75.90 | -
+2URfVdLrqcemiknL5tYPWcZMwEdvcUZER2iPbYTSV356 | 2 | 129/94 | 110.83/136.91 | +26.08 | создатель
+Ace361iLuqKsAdWxVpuUadeNQq89FjPLvqacqV191k2i | 1 | 102/137 | 84.15/141.10 | +56.95 | -
+EV5nTWTsmpq6HuLCzpqVSyqSSwMPLFX9cU59WTou5wvD | 2 | 85/77 | 77.77/127.89 | +50.12 | создатель
+4tsYjczx4EXAPkPHa4Cs29uvUDsgS5BqZeMLZbkAXG5h | 1 | 92/88 | 76.51/119.84 | +43.33 | -
+9GTQ3CLNnMbBowcLMUuy7xPhVszMLTjCMfbBKniiPjj3 | 1 | 102/91 | 84.94/110.73 | +25.79 | -
+4W1CmDxzHz3SmigqYjcJes61hHh66boTZHKsgTCD9jaW | 1 | 65/91 | 60.90/126.15 | +65.25 | -
+5EgptZr91gAs56wXBos5JH6eNyk1pgeShR2txNz77UwN | 1 | 69/68 | 57.40/114.24 | +56.84 | -

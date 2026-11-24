@@ -1,0 +1,25 @@
+Solana, pump.fun + PumpSwap, 2 ч до 17.11 21:25: сделок 3592, кошельков 2552, монет 272
+топ-20 кошельков по реализованной прибыли (только монеты, которые и купил, и продал):
+кошелёк | прибыль SOL | закрыто монет (в плюсе) | потратил SOL | держит, с (медиана) | вход, с после первой сделки монеты (медиана) | открытых | сделок
+6w7sMDkRYuNFRh3MAvoP5KNvjoRDEd6hDscthx37PkGi | +3.895 | 1 (1) | 0.68 | -2 | 14 | 0 | 2
+ApJRrhoCP4XfjFS16szMkdHLUYJz6FADaGgewAGzbt1k | +2.360 | 1 (1) | 1.33 | 1 | 9 | 0 | 3
+7VTQYGM37JJiP8UHDwJHVLYWgDWQzTByvXpd2Rs7zmdL | +2.026 | 1 (1) | 2.00 | 4 | 10 | 0 | 3
+7FLFjzVehZhu6VuWbv2jZjAzRCPLU1iRdHvZgfLEBzAQ | +1.990 | 1 (1) | 2.00 | 4 | 6 | 0 | 3
+6EMic1L6hbrVoXV4rT65pwJ6woheqi6vQMRVL83TG1iN | +1.978 | 1 (1) | 4.00 | 6 | 8 | 0 | 5
+3pA89RPk947sAV4YPUsb3gZxhb5QKTHs9BXEC8d7mRYJ | +1.910 | 1 (1) | 1.45 | 11 | 3 | 0 | 4
+YDukYoKDggXdnFzEi3BH1narzRewWRKiFyLRa5JHbFH | +1.695 | 1 (1) | 0.68 | 10 | 3 | 0 | 3
+omegoMAe1AMY5MFKQQr3JwXVy8F4eCvmBAfcpo8XAfq | +1.596 | 2 (1) | 2.15 | -2 | 14 | 0 | 6
+9v5rqhwZy2UmYou8u4wXB6mx9HBGd8utGeUYq4rcN8Qk | +1.571 | 1 (1) | 0.78 | 4 | 6 | 0 | 4
+Bd5VByi437duZWEUdFhysVXwQVtmjhMHxYBQNAVfn5Fg | +1.524 | 1 (1) | 0.20 | -1 | 7 | 0 | 2
+42MCVJg9nbVkMKL7XWVivSFasSvu8hQKYLcvarRczwjU | +1.500 | 1 (1) | 0.23 | -4 | 6 | 0 | 2
+3VDjJcxf89fSedmgACeoWa25mDyaKwT9Q6KZ5fmzGLaK | +1.490 | 1 (1) | 0.33 | 5 | 10 | 0 | 2
+C997Bg42sazfChubec9hHHdZMdyU2B2EcAE3m45aivKh | +1.478 | 1 (1) | 0.30 | 8 | 2 | 0 | 2
+GmCxnfdaC1owbZG7xh8Ghhed1PZtZuqBhGBVAQK2Uu8d | +1.459 | 1 (1) | 0.18 | 1 | 7 | 0 | 2
+eLNMm6FNo365fbNB7ZzkgitC7qXzV7tj4MVFzGLLAC6 | +1.373 | 1 (1) | 0.58 | 0 | 8 | 0 | 2
+GpP4uxu4E3vLMmi1ikm1HHvUSw4WJPJyszFUqXa1xU2E | +1.314 | 1 (1) | 0.68 | 2 | 12 | 0 | 3
+GfQL7SHSKkp64kYX63yoMtD4qhXqREzBsG3vngEmgADC | +1.311 | 1 (1) | 0.30 | -4 | 13 | 0 | 2
+BWmu3JpjpkkjXtcphoUYXn2UDMWnzD9fUcDw6zqJWBsC | +1.261 | 1 (1) | 0.35 | -2 | 5 | 0 | 2
+2DNmm3Bee2aDBQ3uBQF36VWWNLEryosfWbqX2HksNzXu | +1.227 | 1 (1) | 1.30 | 4 | 9 | 0 | 3
+2PBQP8bbxZNyGXWL1jaYynVLLR2DnjY3cU5aCq1YPjUF | +1.166 | 1 (1) | 0.46 | 9 | 6 | 0 | 2
+
+всего кошельков с закрытыми позициями 239: в плюсе 141, сумма прибыли +59.21 SOL

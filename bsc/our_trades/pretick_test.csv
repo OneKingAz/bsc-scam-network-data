@@ -1,0 +1,2 @@
+﻿time;net;token;symbol;tick;anchor_block;target_ms;send_ms;land_block;land_ms;land_vs_target_ms;pay_block;pay_ms;pay_vs_target_ms;share_pct;order;bot_block;sell_block;hold_s;stake;got_bnb;gas_bnb;pnl_bnb;pnl_pct;pnl_before_gas_pct;note;mode;pred_block;cap_block
+2026-11-23 16:45:59;1;0x0054f000Df18598Bd0774Be71f0c832b28e74552;KIMJONGUN;6;135257331;1795430757225;1795430755901;135257394;1795430756450;-775;;;;;;;135257408;7.82;0.001798;0.00000000;0.00005623;-0.00185423;-103.1;;"продажа отклонена (метка сторожа?); метка сторожа есть";пакет;135257396;135257395
